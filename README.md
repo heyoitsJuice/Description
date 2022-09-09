@@ -4,7 +4,7 @@ Hi 👋 My name is Justin Clenista
 Software Engineer
 -----------------
 
-I'm a self-taught software engineer coming in from a Business Economics background. I find a lot of joy in being able to build out software and applications that accomplish something for someone! Being able to continuously learn and grow is a mantra I abide by.
+I'm a self-taught software engineer coming in from a Business Economics background. I find a lot of joy in being able to build out software and applications that accomplish something for someone! Being able to continuously learn and grow is a mantra I abide by. Though the path forward will be hard, I'm a firm believer in the idea that hard work and determination will get myself to where I want to be.
 
 * 🌍  I'm based in San Diego, California
 * 🖥️  See my portfolio at [http://justinclenista.vercel.app](http://justinclenista.vercel.app)
